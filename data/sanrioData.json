@@ -1,0 +1,26 @@
+[
+    {
+        "option": "布甸狗(Pompompurin)",
+        "id": 1,
+        "count": 0,
+        "description": "Pompompurin is a charming golden retriever puppy known for his sweet nature and his signature brown beret. Created by Sanrio, the same company behind Hello Kitty, Pompompurin has captured the hearts of fans worldwide with his irresistible charm and endearing personality. Pompompurin lives in a cozy little home in a basket, where he spends his days napping, eating tasty treats, and exploring the world with his best friends. This friendly and laid-back pup has a passion for pudding and is often seen with a spoon in his mouth, ready to indulge in his favorite dessert."
+    },
+    {
+        "option": "美乐蒂(Melody)",
+        "id": 2,
+        "count": 0,
+        "description": "Enter the enchanting world of Sanrio's My Melody, where sweetness and innocence reign supreme. My Melody is a beloved character known for her iconic pink hood and adorable bunny ears. Created by Sanrio, the masterminds behind Hello Kitty, My Melody has captured the hearts of fans worldwide with her timeless charm and gentle nature. My Melody is a kind-hearted little rabbit who resides in the magical world of Mariland, nestled in the forest. With her pure heart and love for spreading joy, she embarks on delightful adventures alongside her friends, including the mischievous Flat the mouse and the cheerful piano-playing bunny, Piano."
+    },
+    {
+        "option": "可羅米 (Kuromi)",
+        "id": 3,
+        "count": 0,
+        "description": "Step into the captivating world of Sanrio's Kuromi, a character with a mischievous charm and a touch of darkness. Kuromi is a beloved Sanrio character known for her striking appearance, featuring her signature black hood, devilish horns, and a cute pink skull on her chest. Unlike many other Sanrio characters, Kuromi brings a unique edge with her rebellious and sassy personality. With a love for fashion and an unapologetic attitude, she stands out from the crowd and captures the hearts of fans who appreciate her independent spirit."
+    },
+    {
+        "option": "大眼蛙(Keroppi)",
+        "id": 4,
+        "count": 0,
+        "description": "Welcome to the delightful world of Keroppi, a beloved character from Sanrio who is sure to bring a smile to your face. Keroppi is a cheerful and friendly little frog who captures the hearts of fans with his infectious energy and lovable antics. Hailing from Donut Pond, a beautiful and vibrant place filled with lily pads and friendly creatures, Keroppi is always ready for an adventure. With his signature green complexion, big eyes, and a charming smile, he embodies the essence of joy and curiosity."
+    }
+]
